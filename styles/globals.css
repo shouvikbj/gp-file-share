@@ -14,3 +14,17 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.nav-logo {
+  border-radius: 50px;
+  background: transparent;
+}
+
+.navigation {
+  margin-top: -20px !important;
+}
+
+.left-button,
+.right-button {
+  width: 100%;
+}
