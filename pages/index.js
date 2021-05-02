@@ -97,6 +97,11 @@ const Home = () => {
                           {data.file_name}
                         </a>
                       </Link>
+                      <br />
+                      <br />
+                      <div className="text-right">
+                        <p className="text-info">Sent By: ({data.sender})</p>
+                      </div>
                     </div>
                   </div>
                   <br />
